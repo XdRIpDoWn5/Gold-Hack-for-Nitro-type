@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         NT Gold For Free
+// @name  kingsman8874       NT Gold For Free
 // @namespace    https://www.theprabhakar.in/
 // @version      1.0
 // @description  Gives you NT Gold look on Nitro Type garage page!
